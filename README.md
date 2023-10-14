@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub! I'm Echefula Ndukwe, a dynamic Software Engineer who took an unconventional path, transitioning from a background in Anatomist to the world of Software Engineering. Through dedicated self-study, freelance projects, I've been actively forging a strong foundation in the field of Fullstack development through utilization of skill slike :
+Welcome to my GitHub! I'm Echefula Ndukwe, a dynamic Software Engineer who took an unconventional path, transitioning from a background in Anatomist to the world of Software Engineering. Through dedicated self-study, freelance projects, I've been actively forging a strong foundation in the field of Fullstack development through utilization of skill like :
 - Node Js
 - Express Js
 - SQL
