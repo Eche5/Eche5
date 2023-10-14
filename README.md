@@ -1,8 +1,27 @@
 ### Hi there 👋
+Welcome to my GitHub! I'm Echefula Ndukwe, a dynamic Software Engineer who took an unconventional path, transitioning from a background in Anatomist to the world of Software Engineering. Through dedicated self-study, freelance projects, I've been actively forging a strong foundation in the field of Fullstack Development. which are :
+
+Here are some ideas to get you started:
+
+Node Js
+Express Js
+SQL
+JavaScript
+TypeScript
+React
+MongoDB
+Tailwind CSS
+REST APIs
+Next JS
+MobX State Tree
+
+- ⚡ Fun fact: ...
+I love Playing Video Games
+Watching movies
+Watching my football team play (Manchester United)
 
 <!--
-Welcome to my GitHub! I'm Echefula Ndukwe, a dynamic Software Engineer who took an unconventional path, transitioning from a background in Anatomist to the world of Software Engineering. Through dedicated self-study, valuable programming internships, freelance projects, and hands-on experience in real-world applications, I've been actively forging a strong foundation in the field of Fullstack Development.
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,5 +30,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
