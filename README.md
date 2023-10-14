@@ -14,8 +14,7 @@ Tailwind CSS
 REST APIs
 Next JS
 MobX State Tree
-
-- ⚡ Fun fact: ...
+### ⚡ Fun fact: ...
 I love Playing Video Games
 Watching movies
 Watching my football team play (Manchester United)
