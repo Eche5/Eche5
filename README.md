@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Eche5/Eche5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Welcome to my GitHub! I'm Echefula Ndukwe, a dynamic Software Engineer who took an unconventional path, transitioning from a background in Anatomist to the world of Software Engineering. Through dedicated self-study, valuable programming internships, freelance projects, and hands-on experience in real-world applications, I've been actively forging a strong foundation in the field of Fullstack Development.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
