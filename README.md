@@ -15,7 +15,10 @@ Welcome to my GitHub! I'm Echefula Ndukwe, a dynamic Software Engineer who took 
 - I love Playing Video Games
 - Watching movies
 - Watching my football team play (Manchester United)
+## 📊 Github Stats 📈
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eche5&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
 <!--
 
 
